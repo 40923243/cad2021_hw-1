@@ -1,0 +1,47 @@
+<h3>40923243</h3>
+<hr/>
+<p>在這堂課學到的Coppeliasim是目前最難的東西，把STL檔案轉入都沒有什麼問題，只是在Coppeliasim的模擬組合過程有遇到許多問題，像是UI的設定要修改許多地方才能順利運動</p>
+<p>第一軸模擬:</p>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" data-dirname="https://40923243.github.io/cad2021_hw/downloads/w13-2.mp4" data-varname="winkVideoData" height="1080" loop="loop" muted="" playsinline="" width="1920">
+<source src="./../downloads/w13-2.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>第二 三軸模擬:</p>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" data-dirname="https://40923243.github.io/cad2021_hw/downloads/w13-3.mp4" data-varname="winkVideoData" height="1080" loop="loop" muted="" playsinline="" width="1920">
+<source src="./../downloads/w13-2.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<hr/>
+<p></p></div></div> 
